@@ -1,0 +1,66 @@
+.medical h1{
+    font-family: "Saira",sans-serif;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 42px;
+    color: #033b4a;
+    margin-bottom: 5px;
+}
+.medical .des{
+    font-family: "Ubuntu",sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 35px;
+    color: #9dabaf;
+    letter-spacing: 0px;
+}
+.medical p{
+    font-family: "Ubuntu",sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    color: #9dabaf;
+}
+.medical h3{
+    font-family: "Saira",sans-serif;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 42px;
+    color: #033b4a;
+    margin-bottom: 20px;  
+}
+.view{
+    background-color: transparent;
+    border: 1px solid;
+    padding:10px 20px;
+    font-family: "Ubuntu"sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    transition: .5s ease-in-out;
+    letter-spacing: 2px;
+
+}
+
+.view:hover{
+    background-color: #033b4a;
+    color: #fff;
+}
+
+.contact{
+    background-color: transparent;
+    border: 1px solid;
+    padding:10px 20px;
+    font-family: "Ubuntu"sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    color: #fff;
+    transition: .5s ease-in-out;
+    background-color: #01d6a3;
+    border: hidden;
+    letter-spacing: 2px;
+}
+
+.contact:hover{
+    background-color: #033b4a;
+    color: #fff;
+}

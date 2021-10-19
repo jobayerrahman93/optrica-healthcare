@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Lung Diseases",
+      "imgUrl": "https://images.indianexpress.com/2018/12/lun-cancer_759_thinkstockphotos.jpg",
+      "description": "One of the key classifications is between traditio nal small molecule drugs; usually derived from chemical synthesis."
+    },
+    {
+      "id": 2,
+      "name": "Heart Diseases",
+      "imgUrl": "https://www.deccanherald.com/sites/dh/files/styles/article_detail/public/article_images/2019/11/20/heart-attack-1574189524.jpg?itok=brZDaNY7",
+      "description": "One of the most common complications of heart disease, heart failure occurs when your heart can't pump enough blood to meet your body's needs"
+    },
+    {
+      "id": 3,
+      "name": "Orthopaedic",
+      "imgUrl": "https://vishwarajhospital.com/wp-content/uploads/2020/12/DEPARTMENT-OF-ORTHOPAEDIC-JOINT-REPLACEMENT-at-vishwaraj-hospital-1024x400.jpg",
+      "description": "Orthopaedics is the medical specialty that focuses on injuries and diseases of your body's musculoskeletal system."
+    },
+    {
+      "id": 4,
+      "name": "General Surgery",
+      "imgUrl": "https://www.crouse.org/wp-content/uploads/2018/05/surgicalservices_feat.jpg",
+      "description": "General Surgery is a discipline of surgery having a central core of knowledge embracing anatomy, physiology, metabolism, immunology, nutrition, pathology, wound healing, shock and resuscitation"
+    },
+    {
+      "id": 5,
+      "name": "Neurology",
+      "imgUrl": "https://daleenahealthcare.com/wp-content/uploads/2021/04/Neurology-1-980x481-1.jpg",
+      "description": "A doctor who specializes in neurology is called a neurologist. The neurologist treats disorders that affect the brain, spinal cord, and nerves"
+    },
+    {
+      "id": 6,
+      "name": "Cardiology",
+      "imgUrl": "https://www.fi.edu/sites/default/files/styles/featured_large/public/General_EduRes_Heart_MilestonesInCardiology.jpg?itok=0ZeK8U4r",
+      "description": "Cardiology focuses on the diagnosis and treatment of the cardiovascular system - heart, arteries, and veins."
+    }
+  ]

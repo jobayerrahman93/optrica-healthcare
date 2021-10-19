@@ -1,0 +1,14 @@
+.services{
+    height: 150vh;
+    
+}
+@media (max-width:576px) {
+    .services{
+        height: auto;
+    }
+}
+@media (max-width:767px) {
+    .services{
+        height: auto;
+    }
+}
