@@ -15,7 +15,6 @@ Optirica Medical website was bootstrapped with [Optrica](https://optrica-hospita
 <br/>
 ## Features
 • Products & Services (CRUD)  
-<br/>
 • Log In Authentication(FireBase)
 <br/>
 • Admin & User’s Dashboard.
