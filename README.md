@@ -12,10 +12,12 @@ Optirica Medical website was bootstrapped with [Optrica](https://optrica-hospita
 • We are among the most qualified implant providers in the USA with over 35 years of quality training and experience.
 <br/>
 • Commited To Trusted Health Care
-
-##Features
+<br/>
+## Features
 • Products & Services (CRUD)  
+<br/>
 • Log In Authentication(FireBase)
+<br/>
 • Admin & User’s Dashboard.
 
 
